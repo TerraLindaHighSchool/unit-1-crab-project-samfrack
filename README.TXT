@@ -10,5 +10,5 @@ This scenario is part of the book
 
 This scenario is discussed in detail in that book.
 
-Copyright (c) Michael Kölling.
+Copyright (c) Michael Kölling.uu
 
